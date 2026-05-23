@@ -16,12 +16,9 @@ An embedded security-based firmware integrity verification system designed to de
 * Embedded device security monitoring
 
 ---
-<h2>🏗️ System Architecture</h2>
+## 🏗️ System Architecture
 
-<p align="center">
-  <img src="assets/firmware-architecture.png" width="1000"/>
-</p>
-
+![Firmware Architecture](assets/firmware-architecture.png)
 ---
 
 ## ⚙️ Workflow
